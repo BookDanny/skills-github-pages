@@ -33,6 +33,11 @@ title: Welcome to my blog 
 
 14. **问题解决4S法**：陈述、建构、求解、推销，基于逻辑思维和假设验证。
 
-
+123
 (简单做自己)[./posts/2025-03-18-简单做自己.md]
 (simpletoyourself)[./posts/2025-03-15-simple-to-yourself.md]
+[简单做自己](./posts/2025-03-18-简单做自己.md)
+
+
+
+
